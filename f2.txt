@@ -1,2 +1,2 @@
 additional file
-Adding line 2 in f2.
+Adding line 2 in f2.txt
