@@ -2,3 +2,5 @@ My name is vishakha
 My surname is Bhake.
 My company name is CapG.
 My son's name is Anvay.
+My husband's name is Aditya.
+My skills are automation, API & functional testing.
